@@ -26,7 +26,7 @@ html {
   z-index: 1;
   width: 100%;
   min-height: 100vh;
-  background: rgba(36, 36, 36, 0.8); /* Add slight transparency */
+  background: rgba(36, 36, 36, 0.3); /* Add slight transparency */
   backdrop-filter: blur(
     1px
   ); /* Optional: blur background for better readability */
