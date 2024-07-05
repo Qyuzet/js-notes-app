@@ -7,13 +7,25 @@
     <link rel="stylesheet" href="style.css" />
   </head>
   <body>
+    <script
+      type="module"
+      src="https://unpkg.com/@splinetool/viewer@1.8.9/build/spline-viewer.js"
+    ></script>
+
+    <spline-viewer
+      class="spline-viewer"
+      url="https://prod.spline.design/txv0RvTBdi-P5cfb/scene.splinecode"
+    ></spline-viewer>
+
     <div class="container">
-      <h1><img src="images/notes.png" alt="" /> Notes</h1>
-      <button><img src="images/edit.png" alt="" /> Create Notes</button>
+      <h1><img src="images/notes_.png" alt="" /> Notes</h1>
+      <button class="btn">
+        <img src="images/edit.png" alt="" /> Create Notes
+      </button>
       <div class="notes-container">
-        <p contenteditable="true" class="input-box">
+        <!-- <p contenteditable="true" class="input-box">
           <img src="images/delete.png" alt="" />
-        </p>
+        </p> -->
       </div>
     </div>
 
