@@ -46,7 +46,7 @@ Experience the live demo [here](https://qyuzet.github.io/js-notes-app/).
 
 - **HTML (`index.html`):** Contains the structure of the application.
 - **CSS (`styles.css`):** Defines the styling for a responsive and visually appealing interface.
-- **JavaScript (`app.js`):** Implements the functionality for adding, editing, deleting, and persisting notes.
+- **JavaScript (`scripts.js`):** Implements the functionality for adding, editing, deleting, and persisting notes.
 
 ## Contributing
 
