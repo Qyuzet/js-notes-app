@@ -3,6 +3,8 @@
 A comprehensive notes application developed using HTML, CSS, and JavaScript, designed to enhance your note-taking experience with a simple and intuitive interface.
 [TRY HERE!](https://qyuzet.github.io/js-notes-app/)
 
+![image](https://github.com/Qyuzet/js-random-password-generator/assets/93258081/0a5ea772-7976-4612-b10a-241772a730aa)
+
 
 ## Features
 
