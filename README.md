@@ -1,6 +1,8 @@
 # JS Notes App
 
 A comprehensive notes application developed using HTML, CSS, and JavaScript, designed to enhance your note-taking experience with a simple and intuitive interface.
+[TRY HERE!](https://qyuzet.github.io/js-notes-app/)
+
 
 ## Features
 
@@ -15,7 +17,6 @@ A comprehensive notes application developed using HTML, CSS, and JavaScript, des
 
 Experience the live demo [here](https://qyuzet.github.io/js-notes-app/).
 
-![Demo Image](./images/demo.png)
 
 ## Installation
 
